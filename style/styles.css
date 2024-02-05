@@ -10,7 +10,7 @@ body{
 
 .card{
   display: flex;
-  width: 600px;
+  max-width: 600px;
   justify-content: center;
   border-radius: 20px;
   box-shadow: 1px 0px 30px rgba(0, 0, 214, 0.154);
